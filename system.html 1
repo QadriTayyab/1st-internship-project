@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Premium Personal Profile</title>
+    <link rel="stylesheet" href="internship.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Welcome to My  Profile</h1>
+            <p>Explore my world of creativity and technology</p>
+        </div>
+    </header>
+
+    <!-- New Section: Owner Profile -->
+    <section id="owner" class="container">
+        <h2>About the Designer</h2>
+        <div class="owner-profile">
+            <img src="C:\Users\Admin\Downloads\WhatsApp Image 2024-07-15 at 18.06.10_12ff4580.jpg" alt="Web Designer" class="owner-image">
+            <div class="owner-info">
+                <h3> Malik Tayyab Qadri</h3>
+                <p>I'm Tayyab, a passionate web designer and developer doing BS Software Engineering with over 2 years of experience in creating stunning, user-friendly websites. I believe in blending creativity with functionality to craft digital experiences that leave a lasting impact. Let's build something amazing together!</p>
+                <p>Connect with me:</p>
+                <p>
+                    <a href="https://github.com/" target="_blank">GitHub</a> |
+                    <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="about-me" class="container">
+        <h2>About Me</h2>
+        <p>Hi, I'm a passionate web developer with a love for building elegant and responsive websites. I thrive on solving challenges and turning creative ideas into functional digital solutions. In my free time, I enjoy hiking, reading science fiction and history , and capturing moments through photography.</p>
+    </section>
+
+    <section id="hobbies" class="container">
+        <h2>My Hobbies</h2>
+        <div class="hobby-grid">
+            <div class="hobby-item">
+                <h3>Web Development</h3>
+                <p>I love creating stunning websites that solve real-world problems.</p>
+            </div>
+            <div class="hobby-item">
+                <h3>Reading Sci-Fi</h3>
+                <p>Exploring futuristic worlds and complex characters through fiction.</p>
+            </div>
+            <div class="hobby-item">
+                <h3>Hiking</h3>
+                <p>Breathing fresh air and discovering the beauty of nature.</p>
+            </div>
+            <div class="hobby-item">
+                <h3>Photography</h3>
+                <p>Capturing moments and memories through the lens of my camera.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="container">
+        <h2>Skills</h2>
+        <div class="skill-grid">
+            <div class="skill-item">
+                <h3>HTML & CSS</h3>
+                <p>Mastering the art of building clean, accessible, and responsive websites.</p>
+            </div>
+            <div class="skill-item">
+                <h3>JavaScript</h3>
+                <p>Making web pages interactive and dynamic with modern JavaScript.</p>
+            </div>
+            <div class="skill-item">
+                <h3>Python</h3>
+                <p>Using Python for scripting, automation, and data analysis.</p>
+            </div>
+            <div class="skill-item">
+                <h3>UI/UX Design</h3>
+                <p>Creating user-friendly interfaces with a focus on design and usability.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>Connect with me: 
+            <a href="https://github.com/" target="_blank">GitHub</a> | 
+            <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+        </p>
+        <p>&copy; 2024 My Premium Profile. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
